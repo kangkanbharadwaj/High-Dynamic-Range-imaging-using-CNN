@@ -1,0 +1,3 @@
+/misc/lmbraid18/bharadwk/blender/blender --background $blend_file_dir/3DGRASSFIELD5.blend --python auto_blender.py -- 3DGRASSFIELD5
+blend_file_dir='/misc/lmbraid18/bharadwk/tmp/'
+qsub -lnodes=1:ppn=16,mem=8gb,walltime=24:00:00 ./bashscript.sh
