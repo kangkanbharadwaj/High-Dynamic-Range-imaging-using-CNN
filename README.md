@@ -51,6 +51,24 @@
 
 <br />
 
+<img style="border: 1px solid grey" src="images/4.png" alt="image segmentation vs semantic segmentation" width="600" height="500"/>
+
+<br />
+
+### Network Architecture
+
+#### UNet
+
+  *  19 Convolution layers, 4 Pooling layers and up-convolution
+  *  3X3 kernel size, padding of 1, mini batch size 4
+  *  Initial LR of 0.0001, gamma 0.1 and step size 20000
+  *  ReLU activation, Adam Solver
+  
+<br />
+
+<img style="border: 1px solid grey" src="images/5.png" alt="image segmentation vs semantic segmentation" width="600" height="500"/>
+
+<br />
 
  
 
