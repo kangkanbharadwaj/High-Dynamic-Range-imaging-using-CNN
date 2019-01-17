@@ -70,12 +70,17 @@
 </p>
 <br />
 
- 
+## Experiments and Results
 
+  *  The experiments were performed on 331 training images and 75 test images.
+  *  Visualization after tone mapping using Gamma Correction
 
+<br />
+### Basic experiments
+<br />
 
-
-
+<img style="border: 1px solid grey" src="images/6.png" alt="image segmentation vs semantic segmentation" width="400" height="300"/>
+<br />
 
 
 
