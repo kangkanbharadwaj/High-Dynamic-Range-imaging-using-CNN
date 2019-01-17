@@ -13,7 +13,7 @@
   *  HDR: Range of luminance that is equivalent to the one experienced by a human eye (upto 105).
   *  Tone-mapping: The scene with original irradiance(linear space) is mapped to pixel values of (0-255).
   
-<img style="border: 1px solid grey" src="images/1.png" alt="image segmentation vs semantic segmentation" width="600" height="800"/>
+<img style="border: 1px solid grey" src="images/1.png" alt="image segmentation vs semantic segmentation" width="300" height="300"/>
 <br />
 <br />
 
@@ -22,6 +22,6 @@
   *  Image from DSLR camera cannot capture much details in very dark or very bright regions in one exposure setting.
   *  Surveillance or medical applications
   
-<img style="border: 1px solid grey" src="images/2.png" alt="image segmentation vs semantic segmentation" width="600" height="800"/>
+<img style="border: 1px solid grey" src="images/2.png" alt="image segmentation vs semantic segmentation" width="500" height="500"/>
 <br />
 <br />
