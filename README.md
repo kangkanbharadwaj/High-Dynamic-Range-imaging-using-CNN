@@ -51,7 +51,7 @@
 
 <br />
 
-<img style="border: 1px solid grey" src="images/4.png" alt="image segmentation vs semantic segmentation" width="600" height="500"/>
+<img style="border: 1px solid grey" src="images/4.png" alt="image segmentation vs semantic segmentation" width="700" height="350"/>
 
 <br />
 
@@ -65,9 +65,9 @@
   *  ReLU activation, Adam Solver
   
 <br />
-
-<img style="border: 1px solid grey" src="images/5.png" alt="image segmentation vs semantic segmentation" width="600" height="500"/>
-
+<p align="center">
+<img style="border: 1px solid grey" src="images/5.png" alt="image segmentation vs semantic segmentation" width="400" height="300"/>
+</p>
 <br />
 
  
