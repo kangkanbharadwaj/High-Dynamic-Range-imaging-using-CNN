@@ -158,6 +158,33 @@
 <img style="border: 1px solid grey" src="images/22.png" alt="image segmentation vs semantic segmentation" width="600" height="300"/>
 <br />
 
+### Network qualification on real time images
+
+<br />
+
+<p align="center">
+<img style="border: 1px solid grey" src="images/23.png" alt="image segmentation vs semantic segmentation" width="500" height="200"/>
+
+<img style="border: 1px solid grey" src="images/24.png" alt="image segmentation vs semantic segmentation" width="700" height="300"/>
+<br />
+
+<br />
+
+<img style="border: 1px solid grey" src="images/25.png" alt="image segmentation vs semantic segmentation" width="500" height="200"/>
+
+<img style="border: 1px solid grey" src="images/26.png" alt="image segmentation vs semantic segmentation" width="700" height="300"/>
+<br />
+
+<br />
+
+<img style="border: 1px solid grey" src="images/27.png" alt="image segmentation vs semantic segmentation" width="500" height="200"/>
+
+<img style="border: 1px solid grey" src="images/29.png" alt="image segmentation vs semantic segmentation" width="700" height="300"/>
+
+</p>
+<br />
+
+
 
 
 
