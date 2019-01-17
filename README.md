@@ -80,8 +80,9 @@
 ### Basic experiments
 
 <br />
-
+<p align="center">
 <img style="border: 1px solid grey" src="images/6.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+</p>
 <br />
 
 <img style="border: 1px solid grey" src="images/7.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
@@ -92,8 +93,9 @@
 ### Experiments to fight disadvantage of smaller dataset
 
 <br />
-
+<p align="center">
 <img style="border: 1px solid grey" src="images/9.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+</p>
 <br />
 
 <img style="border: 1px solid grey" src="images/10.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
@@ -105,12 +107,13 @@
   *  For this we incorporated dropout variations and model reduction
 <br />
 
-
+<p align="center">
 <img style="border: 1px solid grey" src="images/12.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+</p>
 <br />
 
 <img style="border: 1px solid grey" src="images/13.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
-<img style="border: 1px solid grey" src="images/14.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<img style="border: 1px solid grey" src="images/14.png" alt="image segmentation vs semantic segmentation" width="700" height="400"/>
 
 <br />
 
