@@ -1,3 +1,14 @@
-# LDR---HDR-prediction
-Predict HDR images from LDR images using CNN
-The Low Dynamic Range (LDR) images are initially created using Blender. The scenes used in this process are synthetic. We do not have a ground truth at present and hence the High Dynamic Range (HDR) images are also created using blender. These images are trained using a Convolution Neural Network and the loss is monitored to assure the possibility to work with authentic digital images in the future.
+# Learning HDR Imaging from Synthetic data
+
+
+## Objective
+
+1.  Creation of a static dataset using blender
+2.  Learn a model on the data
+3.  Use the model to test real scenes
+
+## Introduction
+
+  *  LDR: Images of 0-255 pixel range, can be displayed on a standard device.
+  *  HDR: Range of luminance that is equivalent to the one experienced by a human eye (upto 105).
+  *  Tone-mapping: The scene with original irradiance(linear space) is mapped to pixel values of (0-255).
