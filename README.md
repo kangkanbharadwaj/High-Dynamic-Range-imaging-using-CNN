@@ -101,6 +101,22 @@
 
 <br />
 
+  *  These experiments were conducted to overcome the problem of having a smaller dataset
+  *  For this we incorporated dropout variations and model reduction
+<br />
+
+
+<img style="border: 1px solid grey" src="images/12.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+<br />
+
+<img style="border: 1px solid grey" src="images/13.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<img style="border: 1px solid grey" src="images/14.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<br />
+
+
+
+
 
 
 
