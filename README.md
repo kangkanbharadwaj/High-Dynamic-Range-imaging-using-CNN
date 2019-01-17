@@ -185,11 +185,30 @@
 <br />
 
 
+### Don’t use our network for a motion dataset
+
+<br />
+
+<img style="border: 1px solid grey" src="images/31.png" alt="image segmentation vs semantic segmentation" width="400" height="100"/>
+<br />
+
+<img style="border: 1px solid grey" src="images/32.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<br />
 
 
+### Compare UNet to state-of-the-art
 
+<br />
 
+<img style="border: 1px solid grey" src="images/33.png" alt="image segmentation vs semantic segmentation" width="400" height="100"/>
 
+<br />
+
+<img style="border: 1px solid grey" src="images/34.png" alt="image segmentation vs semantic segmentation" width="500" height="200"/>
+<img style="border: 1px solid grey" src="images/34.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<br />
 
 
 
