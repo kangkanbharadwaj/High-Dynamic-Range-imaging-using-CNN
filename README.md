@@ -31,5 +31,37 @@
 <br />
 
 <img style="border: 1px solid grey" src="images/3.png" alt="image segmentation vs semantic segmentation" width="600" height="500"/>
+<br />
+<br />
+
+## Approach
+
+  *  Data set generation
+  *  Learn a network model from the data set
+  *  Run Experiements on the learned model
+  
+<br />
+
+### Dataset generation
+
+  *  Created using Blender seggregating them into 331 train and 75 test images.
+  *  One scene was rendered multiple times in different exposures. The exposures ranged from EV:-5 to EV: +4.
+  *  Render engines are Cycles render and Blender Render.
+  *  The image resolution was kept to 640 X 480.
 
 <br />
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
