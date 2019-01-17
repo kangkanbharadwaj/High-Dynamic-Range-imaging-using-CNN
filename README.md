@@ -89,6 +89,18 @@
 
 <br />
 
+### Experiments to fight disadvantage of smaller dataset
+
+<br />
+
+<img style="border: 1px solid grey" src="images/9.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+<br />
+
+<img style="border: 1px solid grey" src="images/10.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<img style="border: 1px solid grey" src="images/11.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<br />
+
 
 
 
