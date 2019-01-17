@@ -76,14 +76,16 @@
   *  Visualization after tone mapping using Gamma Correction
 
 <br />
+
 ### Basic experiments
+
 <br />
 
-<img style="border: 1px solid grey" src="images/6.png" alt="image segmentation vs semantic segmentation" width="400" height="300"/>
+<img style="border: 1px solid grey" src="images/6.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
 <br />
 
-<img style="border: 1px solid grey" src="images/7.png" alt="image segmentation vs semantic segmentation" width="400" height="300"/>
-<img style="border: 1px solid grey" src="images/8.png" alt="image segmentation vs semantic segmentation" width="400" height="300"/>
+<img style="border: 1px solid grey" src="images/7.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<img style="border: 1px solid grey" src="images/8.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
 
 <br />
 
