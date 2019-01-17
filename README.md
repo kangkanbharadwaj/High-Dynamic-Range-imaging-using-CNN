@@ -115,6 +115,41 @@
 
 <br />
 
+### Choose the best for real images
+
+  *  The HDR Candidates used are obtained by applying an inverse to the camera response function that maps the Low Dynamic Range Images to their corresponding HDR counterparts.
+
+<br />
+
+<img style="border: 1px solid grey" src="images/15.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+
+<br />
+
+<img style="border: 1px solid grey" src="images/16.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<img style="border: 1px solid grey" src="images/17.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<br />
+
+
+### HDR Candidates
+
+  *  The HDR Candidates used are obtained by applying an inverse the camera response function that maps the Low Dynamic Range Images to their corresponding HDR counterparts.
+
+<br />
+
+<img style="border: 1px solid grey" src="images/18.png" alt="image segmentation vs semantic segmentation" width="400" height="150"/>
+
+<br />
+
+<img style="border: 1px solid grey" src="images/19.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+
+<img style="border: 1px solid grey" src="images/20.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
+<br />
+
+
+
+
+
 
 
 
