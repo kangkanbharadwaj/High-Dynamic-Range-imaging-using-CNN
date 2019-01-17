@@ -216,4 +216,15 @@
   *  Choice of the network should be taken into consideration as for a smaller dataset a simpler network is more preferable. 
   *  Comparing to architecture from Nima Khademi Kalantari using only an encoder (convolution without de-convolution) can also be an option.
 
+<br />
+
+## Future Work
+
+  *  Real world contains motions
+  *  A real world dataset will contain some motion due to objects moving, hand shaking etc.
+  *  Solving HDR after LDR alignment
+  *  Create a data set that involves motion simulating real time situations.
+  *  Estimating the flow using a FlowNet
+  *  Train the best network from previous findings
+  *  Test generalization on real images with motion
 
