@@ -201,12 +201,19 @@
 <img style="border: 1px solid grey" src="images/32.png" alt="image segmentation vs semantic segmentation" width="400" height="100"/>
 
 <br />
+<br />
+
 <p align="center">
 <img style="border: 1px solid grey" src="images/33.png" alt="image segmentation vs semantic segmentation" width="500" height="200"/>
 <img style="border: 1px solid grey" src="images/34.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
 </p>
 <br />
 
+## Conclusions
 
+  *  Successfully created a sythetic dataset that can be used for further experimental and research purposes.
+  *  Our network was able to justify on real time images being trained on synthetic data. 
+  *  Choice of the network should be taken into consideration as for a smaller dataset a simpler network is more preferable. 
+  *  Comparing to architecture from Nima Khademi Kalantari using only an encoder (convolution without de-convolution) can also be an option.
 
 
