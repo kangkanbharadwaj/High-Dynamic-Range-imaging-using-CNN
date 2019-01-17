@@ -146,7 +146,17 @@
 <img style="border: 1px solid grey" src="images/20.png" alt="image segmentation vs semantic segmentation" width="700" height="500"/>
 <br />
 
+### Experiments on random set of LDRs
 
+  *  Experiments were performed on the same set of train and test data but we shuffled the stack of LDR images.
+<br />
+
+<img style="border: 1px solid grey" src="images/21.png" alt="image segmentation vs semantic segmentation" width="300" height="150"/>
+
+<br />
+
+<img style="border: 1px solid grey" src="images/22.png" alt="image segmentation vs semantic segmentation" width="600" height="300"/>
+<br />
 
 
 
